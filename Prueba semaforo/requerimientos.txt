@@ -1,0 +1,3 @@
+# Requires Python 3.13 (pygame 2.6.1 tiene problemas con 3.14)
+pygame==2.6.1; python_version == "3.13"
+paho-mqtt>=2.0
